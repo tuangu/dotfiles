@@ -1,0 +1,2 @@
+- [Increasing development productivity with repository management](https://kalis.me/increasing-development-productivity-repository-management/)
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/): how to master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!
